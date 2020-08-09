@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+I'm Davide Castellani 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+I don't know 
 
 ## Getting started
 
